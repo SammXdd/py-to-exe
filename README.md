@@ -18,19 +18,17 @@ The full source code of this is in the `source.py` file.
 You can run the application without installing Python or any additional packages. Simply run the exe-converter.exe file.
 
 
-You can install `pyinstaller` using pip:
+To run this application, you need to have Python installed on your system along with the following packages:
+- `pyinstaller`
+- `tkinter`
+
+
+You can install `pyinstaller` and `tkinter` using pip:
 ```sh
 pip install pyinstaller
 ```
-To run this application, you need to have Python installed on your system along with the following packages:
-- `tkinter`
-- `pyinstaller`
-
-
-
-You can install `pyinstaller` using pip:
 ```sh
-pip install pyinstaller
+pip install tk
 ```
 
 
